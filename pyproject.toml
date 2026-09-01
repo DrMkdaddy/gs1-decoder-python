@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gs1-decoder-client"
+version = "1.0.0"
+description = "Official zero-dependency Python client for GS1 Barcode & Digital Link Decoder (Sunrise 2027) via RapidAPI"
+readme = "README.md"
+authors = [{ name = "Noor Mkdad" }]
+license = "MIT"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+keywords = ["gs1","barcode","digital-link","sunrise-2027","gtin","datamatrix","ai-identifier","qr-code","gs1-128"]
+dependencies = []
+
+[project.urls]
+"Homepage" = "https://noormkdad.com/tools/gs1-decoder"
+"Documentation" = "https://noormkdad.com/tools/gs1-decoder"
+"Marketplace" = "https://rapidapi.com/noor-mkdad-apis-noor-mkdad-apis-default/api/gs1-barcode-digital-link-decoder-sunrise-2027"
+"Source" = "https://github.com/DrMkdaddy/gs1-decoder-python"

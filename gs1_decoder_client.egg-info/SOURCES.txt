@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+gs1_decoder_client/__init__.py
+gs1_decoder_client.egg-info/PKG-INFO
+gs1_decoder_client.egg-info/SOURCES.txt
+gs1_decoder_client.egg-info/dependency_links.txt
+gs1_decoder_client.egg-info/top_level.txt
